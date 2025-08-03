@@ -11,4 +11,4 @@ Where do you save your code locally?
 
 Need Git software on Windows as well.
 
-I use Git at work everday.
+We will edit this file.
