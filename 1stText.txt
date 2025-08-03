@@ -1,0 +1,14 @@
+We do a simple example first.
+
+1) Create a Git repository
+2) Desktop -> sample text file
+3) Upload the text file to the Git
+
+Repo => On the Cloud/Multiple copies
+Clone => Make a local copy
+
+Where do you save your code locally?
+
+Need Git software on Windows as well.
+
+I use Git at work everday.
